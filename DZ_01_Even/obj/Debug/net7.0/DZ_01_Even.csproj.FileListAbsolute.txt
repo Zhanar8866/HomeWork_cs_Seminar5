@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\bin\Debug\net7.0\DZ_01_Even.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\bin\Debug\net7.0\DZ_01_Even.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\bin\Debug\net7.0\DZ_01_Even.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\bin\Debug\net7.0\DZ_01_Even.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\bin\Debug\net7.0\DZ_01_Even.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\DZ_01_Even.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\DZ_01_Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\DZ_01_Even.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\DZ_01_Even.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\DZ_01_Even.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\DZ_01_Even.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\refint\DZ_01_Even.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\DZ_01_Even.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\DZ_01_Even.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_01_Even\obj\Debug\net7.0\ref\DZ_01_Even.dll
