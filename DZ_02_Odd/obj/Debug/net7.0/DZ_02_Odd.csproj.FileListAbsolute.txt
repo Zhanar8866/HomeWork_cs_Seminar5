@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\bin\Debug\net7.0\DZ_02_Odd.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\bin\Debug\net7.0\DZ_02_Odd.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\bin\Debug\net7.0\DZ_02_Odd.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\bin\Debug\net7.0\DZ_02_Odd.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\bin\Debug\net7.0\DZ_02_Odd.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\DZ_02_Odd.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\DZ_02_Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\DZ_02_Odd.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\DZ_02_Odd.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\DZ_02_Odd.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\DZ_02_Odd.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\refint\DZ_02_Odd.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\DZ_02_Odd.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\DZ_02_Odd.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 05. C#\DZ\DZ_02_Odd\obj\Debug\net7.0\ref\DZ_02_Odd.dll
